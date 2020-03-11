@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_uncle - Function Found Uncle.
- * @node:  pointer to leaf tree
+ * @node:  pointer to Uncle.
  * Return: Node Binary.
  */
 binary_tree_t *binary_tree_uncle(binary_tree_t *node)
